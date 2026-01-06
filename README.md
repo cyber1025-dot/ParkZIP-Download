@@ -1,6 +1,5 @@
 # ParkZIP (Premium Archiver)
 
-![Logo](resources/logo.png)
 
 > **직관적이고 강력한 차세대 파일 압축 프로그램**  
 > ParkZIP은 불필요한 기능은 빼고, 꼭 필요한 기능만 **가장 아름답고 편리하게** 담았습니다.
